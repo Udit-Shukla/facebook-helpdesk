@@ -7,7 +7,7 @@ export const Conversations = () => {
   const conversations = [
     {
       id: 1,
-      participant: "Himanshu Chauhan",
+      participant: "Udit Shukla",
       timestamp: "2024-02-15 @ 06:18",
       lastMessage: "Hey Bruce, what are you up to today?",
       isCurrentUser: true,
@@ -35,7 +35,7 @@ export const Conversations = () => {
     },
     {
       id: 5,
-      participant: "Himanshu",
+      participant: "Udit Shukla",
       timestamp: "2024-02-15 @ 06:22",
       lastMessage: "tell me you are kidding, right?",
       isCurrentUser: true,
