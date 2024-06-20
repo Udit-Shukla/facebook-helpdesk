@@ -1,6 +1,4 @@
-# RichPanel Assignment
-
-assignment for richpanel intern opening.
+# Social Seller HQ
 
 React + Vite
 Tailwind
